@@ -28,7 +28,7 @@
     - 다른사람이 했던 예제
     - GitAutoPush.bat
 
-    ```python
+    ```bash
     :loop
     	:: Navigate to the directory you wish to push to GitHub
     	::Change <path> as needed. Eg. C:\Users\pookie\Desktop\Writings
